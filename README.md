@@ -7,4 +7,4 @@
 
 - 📫 How to reach me : My professional email adress is oscar.hernandezjaussely@gmail.com
 
-- 🗨️ Quote : "A stranger is just a friend you ain't met yet" _William "Billy" Butcher_
+- 🗨️ Quote : "A stranger is just a friend you ain't met yet"  - _William "Billy" Butcher_
