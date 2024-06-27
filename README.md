@@ -1,6 +1,6 @@
-- 📚    I'm studying IT, mainly through internet's infinite knowledge and my own will to learn
+- 📚 I'm studying IT, mainly through internet's infinite knowledge and my own will to learn
 
-- 🛠️    Currently learning the basics of C programming
+- 🛠️ Currently learning the basics of C programming
 
 <!--
 **oscar-hernandez-jaussely/oscar-hernandez-jaussely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
